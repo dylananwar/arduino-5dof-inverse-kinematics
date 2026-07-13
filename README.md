@@ -15,7 +15,7 @@ A coordinate-driven 5DOF robotic arm utilizing geometric Inverse Kinematics and 
 ### 1. Hardware Stack
 * **Chassis:** Adeept 5DOF Robotic Arm structural linkages
 * **Microcontroller:** Arduino Uno (ATmega328P)
-* **Actuators:** 5 positional micro servos
+* **Actuators:** 6 positional micro servos
 * **Power Delivery:** Dual-rail isolation (USB for Arduino logic, external independent DC power supply for servo current requirements with shared common ground)
 
 ### 2. Software Architecture
