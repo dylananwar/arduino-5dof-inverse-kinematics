@@ -1,6 +1,6 @@
 # 5DOF Robotic Arm: Coordinate-Driven Inverse Kinematics Control
 
-An admissions-grade engineering project focused on transforming an Adeept 5DOF robotic arm kit from a joint-angle toy into a coordinate-driven autonomous machine. This system calculates real-time trigonometric trajectories to map 3D spatial points $(X, Y, Z)$ directly into precise servo positions using geometric decomposition and the Law of Cosines.
+A coordinate-driven 5DOF robotic arm utilizing geometric Inverse Kinematics and an Arduino microcontroller.
 
 ---
 
