@@ -1,6 +1,6 @@
 # 5-DOF Robotic Arm: Kinematics & Control Engine
 
-A coordinate-driven control engine built for a 5-Degree-of-Freedom (5-DOF) robotic arm. Moving beyond basic servo angle commands (`servo.write(deg)`), this project uses real-time Inverse Kinematics (IK), spatial vector decomposition, and hardware-level signal handling to map 3D Cartesian target coordinates $(X, Y, Z)$ to physical joint movements.
+A coordinate-driven control engine built for a 5-Degree-of-Freedom (5-DOF) robotic arm. This project uses real-time inverse kinematics, spatial vector decomposition, and hardware-level signal handling to map 3D target coordinates $(X, Y, Z)$ to physical joint movements.
 
 ---
 
